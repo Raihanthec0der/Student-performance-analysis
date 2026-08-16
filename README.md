@@ -54,6 +54,17 @@ Student-Performance-Analysis/
 
 ## 📊 Dataset
 
+This project uses a student performance dataset containing academic, demographic, family, and study-related information.
+
+### Dataset Source
+
+- **Platform:** Kaggle
+- **Dataset:** Student Performance Data
+- **Dataset Author:** Devansodariya
+- **Source:** https://www.kaggle.com/datasets/devansodariya/student-performance-data
+
+The dataset is used in this project for educational purposes, exploratory data analysis (EDA), statistical analysis, and data visualization.
+
 The analysis expects:
 
 ```text
