@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated Python artifacts
+build/
+dist/
+*.egg-info/
+
+# Keep generated visualizations if you want to showcase them.
+# Remove the next line if you want Git to track generated PNGs.
+# visualizations/*.png
